@@ -1,11 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.6c336ca4.css",
-    "main.js": "/static/js/main.cf780df9.js",
+    "main.css": "/static/css/main.511bac51.css",
+    "main.js": "/static/js/main.7eb1fd68.js",
+    "static/media/bg_9.png": "/static/media/bg_9.741f5b6ee02d13110a6b.png",
+    "static/media/bg_8.png": "/static/media/bg_8.67252a7ac57e1546da99.png",
+    "static/media/bg_1.png": "/static/media/bg_1.832a917a4faf4f46e17a.png",
+    "static/media/bg_10.png": "/static/media/bg_10.75b8321c9057818366b6.png",
+    "static/media/bg_7.png": "/static/media/bg_7.1bbb32e1dfa784a465af.png",
+    "static/media/bg_2.png": "/static/media/bg_2.640e88f32cfeefcb95ba.png",
+    "static/media/bg_3.png": "/static/media/bg_3.9dbf245b4829737aac8a.png",
+    "static/media/Black Ravens.ttf": "/static/media/Black Ravens.fd7482f215217250e9d8.ttf",
+    "static/media/logo.png": "/static/media/logo.b6ee001b7d9f1f2be423.png",
+    "static/media/bg_5.png": "/static/media/bg_5.652c6d03f5d539123722.png",
+    "static/media/bg_4.png": "/static/media/bg_4.ac4720cef7d78d1ff6fd.png",
     "static/media/roboto-all-500-normal.woff": "/static/media/roboto-all-500-normal.0ab669b7a0d19b178f57.woff",
     "static/media/roboto-all-700-normal.woff": "/static/media/roboto-all-700-normal.a457fde362a540fcadff.woff",
     "static/media/roboto-all-400-normal.woff": "/static/media/roboto-all-400-normal.c5d001fa922fa66a147f.woff",
     "static/media/roboto-all-300-normal.woff": "/static/media/roboto-all-300-normal.168d6383e73339293ac3.woff",
+    "static/media/bg_6.png": "/static/media/bg_6.2c34742e84bd967a4090.png",
     "static/media/roboto-latin-500-normal.woff2": "/static/media/roboto-latin-500-normal.f25d774ecfe0996f8eb5.woff2",
     "static/media/roboto-latin-700-normal.woff2": "/static/media/roboto-latin-700-normal.227c93190fe7f82de3f8.woff2",
     "static/media/roboto-latin-400-normal.woff2": "/static/media/roboto-latin-400-normal.b009a76ad6afe4ebd301.woff2",
@@ -35,11 +47,11 @@
     "static/media/roboto-greek-ext-300-normal.woff2": "/static/media/roboto-greek-ext-300-normal.35b9d6be04b95f0f0530.woff2",
     "static/media/roboto-greek-ext-700-normal.woff2": "/static/media/roboto-greek-ext-700-normal.bd9854c751441ccc1a70.woff2",
     "index.html": "/index.html",
-    "main.6c336ca4.css.map": "/static/css/main.6c336ca4.css.map",
-    "main.cf780df9.js.map": "/static/js/main.cf780df9.js.map"
+    "main.511bac51.css.map": "/static/css/main.511bac51.css.map",
+    "main.7eb1fd68.js.map": "/static/js/main.7eb1fd68.js.map"
   },
   "entrypoints": [
-    "static/css/main.6c336ca4.css",
-    "static/js/main.cf780df9.js"
+    "static/css/main.511bac51.css",
+    "static/js/main.7eb1fd68.js"
   ]
 }
